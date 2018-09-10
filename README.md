@@ -20,7 +20,7 @@ High level of the architecture diagram of Microsoft bot service
 
 
   
-# sampleDemo chatbot Conversation Diagram
+# SampleDemo chatbot conversation Diagram
 ![botdiagram](https://user-images.githubusercontent.com/42546837/45314532-a29c5b80-b54f-11e8-8d66-ab53bef15b82.PNG)
 
 ### Common user spoken word(NLP)
