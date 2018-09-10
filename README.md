@@ -6,8 +6,16 @@ High level of the architecture diagram of Microsoft bot service
 #  Features!
 
   
-### Travel-Assistant-Bot Conversation Diagram
+# Travel-Assistant-Bot Conversation Diagram
 ![botdiagram](https://user-images.githubusercontent.com/42546837/45314532-a29c5b80-b54f-11e8-8d66-ab53bef15b82.PNG)
+
+### Common user spoken word(NLP)
+```sh
+plan my trip
+plan my trip <date>
+plan my trip <date> and location
+I would like to explore <interest> in <location> <date>
+```
 
 ### tech
 
