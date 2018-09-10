@@ -3,10 +3,24 @@ High level of the architecture diagram of Microsoft bot service
 
 ![bot](https://user-images.githubusercontent.com/42546837/45298653-d0b97580-b526-11e8-9867-6b696998a532.PNG)
  
-#  Features!
+#  Features of this demo sample!
+#### Integration with multiple channels
+- Cortana
+- Email
+- Facebook
+- GroupMe
+- Kik
+- Skype
+- Slack
+- SMS
+- Alexa
+
+#### Deployed to Azure
+#### Microsoft luis supported languages communication
+
 
   
-# Travel-Assistant-Bot Conversation Diagram
+# sampleDemo chatbot Conversation Diagram
 ![botdiagram](https://user-images.githubusercontent.com/42546837/45314532-a29c5b80-b54f-11e8-8d66-ab53bef15b82.PNG)
 
 ### Common user spoken word(NLP)
