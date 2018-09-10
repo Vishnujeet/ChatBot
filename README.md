@@ -14,6 +14,7 @@ the demoSample app built on:
 * [Sql Server] - DB to store the data
 * [Azure] - Azure Bot Service enabling you to build, connect, test, deploy, and manage intelligent bots, all from one place
 * [ReactJS] - To build client web portal!
+* [React Native] - building native mobile apps with React.
 * [Visual Studio Code] - awesome editor
 * [materializecss] - A modern responsive front-end framework based on Material Design.
 * [Bootstrap] - great UI boilerplate for modern web apps
