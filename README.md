@@ -1,5 +1,5 @@
 # ChatBot
-High level of the architecture diagram of Microsoft bot service
+High level architecture diagram of Microsoft bot service
 
 ![bot](https://user-images.githubusercontent.com/42546837/45298653-d0b97580-b526-11e8-9867-6b696998a532.PNG)
  
